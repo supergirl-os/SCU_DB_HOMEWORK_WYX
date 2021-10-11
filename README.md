@@ -33,3 +33,4 @@ sqlite3 northwind.db
 
 #########sql语句运行结果在img文件夹下
 
+(除q5外，其余均为ubuntu20.04下运行所得，q5为windows命令行运行)
